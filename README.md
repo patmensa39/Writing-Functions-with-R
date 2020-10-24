@@ -12,11 +12,10 @@ theme: cerulean
 ---
 
 
-## Name: PROJECT 5
+## Name: 
 
 ### Writing of functions, control structures, Loop, Nested loops, While loop and looping on the command line. 
 
-### Importing all the six datasets using read_csv().
 
 ```{r}
 library(tidyverse)
